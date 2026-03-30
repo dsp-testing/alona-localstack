@@ -341,7 +341,7 @@ pydantic==2.9.1
     # via aws-sam-translator
 pydantic-core==2.23.3
     # via pydantic
-pygments==2.18.0
+pygments==2.20.0
     # via rich
 pymongo==4.8.0
     # via localstack-core
