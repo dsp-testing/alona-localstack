@@ -543,7 +543,7 @@ pygments==2.18.0
     # via rich
 pymongo==4.8.0
     # via localstack-core
-pyopenssl==24.2.1
+pyopenssl==26.0.0
     # via
     #   localstack-core
     #   localstack-twisted

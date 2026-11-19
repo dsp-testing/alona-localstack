@@ -130,7 +130,7 @@ pycparser==2.22
     # via cffi
 pygments==2.18.0
     # via rich
-pyopenssl==24.2.1
+pyopenssl==26.0.0
     # via
     #   localstack-core (pyproject.toml)
     #   localstack-twisted
